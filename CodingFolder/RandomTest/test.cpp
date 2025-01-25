@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 #define ll long long
-#define NAME "p1"
+#define NAME "TheNameOfYourFile"
 using namespace std;
 
 mt19937 rd(chrono::steady_clock::now().time_since_epoch().count());
