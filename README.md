@@ -1,5 +1,5 @@
 # CodingSolution
-Solution from many popular coding website:
+Solution from many popular coding websites:
 + [VNOI](https://oj.vnoi.info/)
 + [Codeforces](https://codeforces.com/)
 + [LQDOJ](https://www.lqdoj.edu.vn/)
