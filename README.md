@@ -7,7 +7,7 @@ Solution from many popular coding websites (You can view submissions of full exe
 + [Leetcode](https://leetcode.com/u/donguyenphu022008/)
 + [CSES](https://cses.fi/user/220011)
 + [SPOJ](https://www.spoj.com/status/phu15/)
-+ [AMSOI](https://hnoj.edu.vn/user/DoPhu/solved/)
++ [HNOI](https://hnoj.edu.vn/user/DoPhu/solved/)
 + [CSLOJ (Unfortunately, the website was broken)](http://csloj.ddns.net/user/5794)
 + [LIGHTOJ](https://lightoj.com/user/user-mwclp4pf)
 + [OJUZ](https://oj.uz/profile/dophu)
